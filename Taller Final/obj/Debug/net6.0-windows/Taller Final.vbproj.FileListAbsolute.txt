@@ -1,0 +1,49 @@
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\bin\Debug\net6.0-windows\Taller Final.exe
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\bin\Debug\net6.0-windows\Taller Final.deps.json
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\bin\Debug\net6.0-windows\Taller Final.runtimeconfig.json
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\bin\Debug\net6.0-windows\Taller Final.dll
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\bin\Debug\net6.0-windows\Taller Final.pdb
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\obj\Debug\net6.0-windows\Taller Final.vbproj.AssemblyReference.cache
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\obj\Debug\net6.0-windows\Taller_Final.Form1.resources
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\obj\Debug\net6.0-windows\Taller_Final.Resources.resources
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\obj\Debug\net6.0-windows\Taller Final.vbproj.GenerateResource.cache
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\obj\Debug\net6.0-windows\Taller Final.GeneratedMSBuildEditorConfig.editorconfig
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\obj\Debug\net6.0-windows\Taller Final.AssemblyInfoInputs.cache
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\obj\Debug\net6.0-windows\Taller Final.AssemblyInfo.vb
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\obj\Debug\net6.0-windows\Taller Final.vbproj.CoreCompileInputs.cache
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\obj\Debug\net6.0-windows\Taller Final.dll
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\obj\Debug\net6.0-windows\refint\Taller Final.dll
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\obj\Debug\net6.0-windows\Taller Final.pdb
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\obj\Debug\net6.0-windows\Taller Final.genruntimeconfig.cache
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\obj\Debug\net6.0-windows\ref\Taller Final.dll
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\obj\Debug\net6.0-windows\Taller_Final.Clientes.resources
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\obj\Debug\net6.0-windows\Taller_Final.Productos.resources
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\obj\Debug\net6.0-windows\Taller_Final.Ventas.resources
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\obj\Debug\net6.0-windows\Taller Final.vbproj.CopyComplete
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\bin\Debug\net6.0-windows\Google.Protobuf.dll
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\bin\Debug\net6.0-windows\MySql.Data.dll
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\bin\Debug\net6.0-windows\System.Text.Json.dll
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\obj\Debug\net6.0-windows\Taller_Final.adminCliente.resources
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\obj\Debug\net6.0-windows\Taller_Final.agregarCliente.resources
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\obj\Debug\net6.0-windows\Taller_Final.adminProducto.resources
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\obj\Debug\net6.0-windows\Taller_Final.adminVentas.resources
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\obj\Debug\net6.0-windows\Taller_Final.agregarProductos.resources
+L:\Desarrollos\Visual Basic\Taller Final\Taller Final\obj\Debug\net6.0-windows\Taller_Final.agregarVentas.resources
